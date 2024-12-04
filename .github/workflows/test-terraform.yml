@@ -13,7 +13,7 @@ env:
 
 jobs:
   terraform-test:
-    name: 'Terraform Test Job'
+    name: 'Terraform Test Job' 
     runs-on: ubuntu-latest
 
     steps:
